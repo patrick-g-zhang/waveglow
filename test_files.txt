@@ -1,0 +1,10 @@
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0001.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0002.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0003.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0004.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0005.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0006.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0007.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0008.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0009.wav
+/home/gyzhang/speech_database/LJSpeech-1.1/wavs/LJ001-0010.wav
